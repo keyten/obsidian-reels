@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-reels",
+	"name": "Reels",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Insert Instagram reels into your notes",
+	"author": "Dmitriy Miroshnichenko",
+	"authorUrl": "https://github.com/keyten",
+	"isDesktopOnly": false
+}
