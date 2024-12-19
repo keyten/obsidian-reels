@@ -1,6 +1,10 @@
 # Obsidian Reels
 This plugin downloads reels from instagram and saves them to your vault.
 
+The plugin is forked from [obsidian-thumbnails](https://github.com/Meikul/obsidian-thumbnails).
+
+Doesn't support mobiles.
+
 ## Installation
 
 After installing the plugin, you need to set the folder to save the reels in the settings.
